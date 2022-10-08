@@ -1,0 +1,12 @@
+### Terraform ###
+# Local .terraform directories
+**/.terraform/*
+
+# .tfstate files
+*.tfstate
+*.tfstate.*
+
+*.pem
+*.pub
+*Iac-PROD
+*Iac-DEV
